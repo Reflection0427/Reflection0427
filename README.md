@@ -11,15 +11,6 @@
   <img src="https://img.shields.io/badge/LaTeX-121212?style=for-the-badge&logo=latex&logoColor=B8A47E"/>
 </p>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Reflection0427&theme=dark" width="100%"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Reflection0427&theme=dark" height="165"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Reflection0427&theme=dark" height="165"/>
-
-<img src="https://streak-stats.demolab.com?user=Reflection0427&theme=dark&background=121212&ring=B8A47E&fire=D1C0A5&currStreakLabel=B8A47E&sideLabels=D1C0A5&dates=8B8172&hide_border=true&border_radius=16" width="100%"/>
-
-<img src="https://komarev.com/ghpvc/?username=Reflection0427&style=for-the-badge&color=B8A47E&label=PROFILE+VIEWS"/>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B8A47E,50:5C4F3A,100:121212&height=110&section=footer" width="100%"/>
 
 </div>
